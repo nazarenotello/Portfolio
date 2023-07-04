@@ -1,6 +1,6 @@
 const textArea = document.querySelector("#Campo1");
 const mensaje = document.querySelector(".mensaje");
-const copia = document.querySelector(".copiar");
+const copia = document.querySelector(".btn-copiar");
 copia.style.display = "none"
 
 
